@@ -46,7 +46,6 @@ int Details :: cId;
 string Details :: name;
 string Details :: gender;
 
-
 class Registration
 {
 public:
@@ -532,10 +531,6 @@ void mainMenu()
         }
     }
 }
-
-
-
-
 
 int main()
 {
